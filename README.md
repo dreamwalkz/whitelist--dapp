@@ -1,13 +1,4 @@
-# Sample Hardhat Project
+# Build a whitelist dApp for your upcoming NFT Collection
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+You are launching your NFT collection named Crypto Devs. You want to give your early supporters access to a whitelist for your collection, so here you are creating a whitelist dapp for Crypto Devs
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
